@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4aede73b-708f-4383-8e2e-2d235c5233bd" name="server13">
+        <fileTransfer accessType="SFTP" host="server.acemap.cn" port="12813" sshConfigId="be9d20a9-3a2b-49ba-a044-560620d4b4fb" sshConfig="yupeng@server.acemap.cn:12813 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
